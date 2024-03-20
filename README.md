@@ -24,3 +24,10 @@ python tools/train.py \
 
 
 ## Model Zoo
+
+
+| Model        | Backbone    | mAP(%) | Download                                                               |
+|--------------|-------------|--------|------------------------------------------------------------------------|
+| `ATSS+TAM`   | ResNet-50   | 40.9   | [提取码：dk7t](https://pan.baidu.com/s/1bHaFRWVGP1COz_vMXNkRzw?pwd=dk7t)   |
+| `DyHead+TAM` | ResNeXt-101 | 49.9   | [提取码：ddqq](https://pan.baidu.com/s/1JqaKUwqM0LpefdIeqSXOkQ?pwd=ddqq)   |
+
